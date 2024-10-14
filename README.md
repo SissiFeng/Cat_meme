@@ -11,13 +11,14 @@ pinned: false
 
 # Cat Meme Generator
 
-这是一个使用 Streamlit 构建的猫咪梗图生成器。用户可以输入文本，应用会自动选择匹配的猫咪视频和随机背景，生成有趣的梗图视频。
+This is a smart cat meme video generator. You can enter text and the app will automatically select matching cat green screen meme videos and random backgrounds to generate funny meme videos.
 
-## 使用方法
+## How to use
 
-1. 在文本框中输入您想要的梗文本，每行一句。
-2. 点击"生成猫咪梗图"按钮。
-3. 等待视频生成完成。
-4. 预览生成的视频，如果满意可以下载。
+Enter your desired terrier text in the text box, one sentence per line.
+Click the “Generate Cat Stalker” button.
+Wait for the video to finish generating.
+Preview the generated video and download it if you are satisfied.
 
-享受您的猫咪梗图之旅！
+Enjoy your cat terrier picture journey!
+😺 😸 😹 😻 😼 😽 🙀 😿 😾

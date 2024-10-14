@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+moviepy
+torch
+transformers
+Pillow
+psutil
+sentence-transformers
